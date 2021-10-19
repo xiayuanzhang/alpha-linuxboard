@@ -1,0 +1,256 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=C33(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C34(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C35(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C36(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C37(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C38(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C39(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C40(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C41(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C42(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C43(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C44(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C45(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C46(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C47(C 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R39(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R40(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R41(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R42(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R43(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R44(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R45(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R46(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R47(R 0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R48(R 0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C47-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=R39-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=R46-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=R47-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=R48-2
+Added Pin To Net: NetName=GND Pin=U3-C4
+Added Pin To Net: NetName=DCDC_3V3 Pin=U3-E6
+Added Pin To Net: NetName=GND Pin=U3-E7
+Added Pin To Net: NetName=DCDC_3V3 Pin=U3-F5
+Added Pin To Net: NetName=GND Pin=U3-G5
+Added Pin To Net: NetName=GND Pin=U3-H10
+Added Pin To Net: NetName=DCDC_3V3 Pin=U3-J10
+Added Pin To Net: NetName=GND Pin=U3-K8
+Added Pin To Net: NetName=DCDC_3V3 Pin=U3-K9
+Added Pin To Net: NetName=GND Pin=U3-N2
+Added Pin To Net: NetName=GND Pin=U3-N5
+Added Pin To Net: NetName=GND Pin=U3-P4
+Added Pin To Net: NetName=GND Pin=U3-P6
+Added Pin To Net: NetName=DCDC_3V3 Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=DCDC_3V3 Pin=U4-34
+Added Pin To Net: NetName=GND Pin=U4-36
+Added Pin To Net: NetName=DCDC_3V3 Pin=U4-37
+Added Pin To Net: NetName=DCDC_3V3 Pin=U4-39
+Added Pin To Net: NetName=GND Pin=U4-48
+Added Pin To Net: NetName=CSI_DATA0 Pin=U1-E4
+Added Net: Name=CSI_DATA0
+Added Pin To Net: NetName=CSI_DATA1 Pin=U1-E3
+Added Net: Name=CSI_DATA1
+Added Pin To Net: NetName=CSI_DATA2 Pin=U1-E2
+Added Net: Name=CSI_DATA2
+Added Pin To Net: NetName=CSI_DATA3 Pin=U1-E1
+Added Net: Name=CSI_DATA3
+Added Pin To Net: NetName=CSI_DATA4 Pin=U1-D4
+Added Net: Name=CSI_DATA4
+Added Pin To Net: NetName=CSI_DATA5 Pin=U1-D3
+Added Net: Name=CSI_DATA5
+Added Pin To Net: NetName=CSI_DATA6 Pin=U1-D2
+Added Net: Name=CSI_DATA6
+Added Pin To Net: NetName=CSI_DATA7 Pin=U1-D1
+Added Net: Name=CSI_DATA7
+Added Pin To Net: NetName=CSI_HSYNC Pin=U1-F3
+Added Net: Name=CSI_HSYNC
+Added Pin To Net: NetName=CSI_MCLK Pin=U1-F5
+Added Net: Name=CSI_MCLK
+Added Pin To Net: NetName=CSI_PIXCLK Pin=U1-E5
+Added Net: Name=CSI_PIXCLK
+Added Pin To Net: NetName=CSI_VSYNC Pin=U1-F2
+Added Net: Name=CSI_VSYNC
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C41-2
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C42-2
+Added Pin To Net: NetName=EMMC_VDDIM Pin=U3-C2
+Added Net: Name=EMMC_VDDIM
+Added Pin To Net: NetName=NAND_ALE Pin=R44-2
+Added Pin To Net: NetName=NAND_ALE Pin=U1-B4
+Added Pin To Net: NetName=NAND_ALE Pin=U3-K5
+Added Pin To Net: NetName=NAND_ALE Pin=U4-17
+Added Net: Name=NAND_ALE
+Added Pin To Net: NetName=NAND_CE1N Pin=R45-1
+Added Pin To Net: NetName=NAND_CE1N Pin=R46-1
+Added Pin To Net: NetName=NAND_CE1N Pin=R47-1
+Added Pin To Net: NetName=NAND_CE1N Pin=R48-1
+Added Pin To Net: NetName=NAND_CE1N Pin=U1-B5
+Added Pin To Net: NetName=NAND_CE1N Pin=U1-C5
+Added Pin To Net: NetName=NAND_CE1N Pin=U4-4
+Added Pin To Net: NetName=NAND_CE1N Pin=U4-5
+Added Pin To Net: NetName=NAND_CE1N Pin=U4-6
+Added Pin To Net: NetName=NAND_CE1N Pin=U4-7
+Added Pin To Net: NetName=NAND_CE1N Pin=U4-9
+Added Pin To Net: NetName=NAND_CE1N Pin=U4-10
+Added Net: Name=NAND_CE1N
+Added Pin To Net: NetName=NAND_CLE Pin=U1-A4
+Added Pin To Net: NetName=NAND_CLE Pin=U4-16
+Added Net: Name=NAND_CLE
+Added Pin To Net: NetName=NAND_DATA0 Pin=R40-1
+Added Pin To Net: NetName=NAND_DATA0 Pin=U1-D7
+Added Pin To Net: NetName=NAND_DATA0 Pin=U3-A3
+Added Pin To Net: NetName=NAND_DATA0 Pin=U4-29
+Added Net: Name=NAND_DATA0
+Added Pin To Net: NetName=NAND_DATA1 Pin=U1-B7
+Added Pin To Net: NetName=NAND_DATA1 Pin=U3-A4
+Added Pin To Net: NetName=NAND_DATA1 Pin=U4-30
+Added Net: Name=NAND_DATA1
+Added Pin To Net: NetName=NAND_DATA2 Pin=U1-A7
+Added Pin To Net: NetName=NAND_DATA2 Pin=U3-A5
+Added Pin To Net: NetName=NAND_DATA2 Pin=U4-31
+Added Net: Name=NAND_DATA2
+Added Pin To Net: NetName=NAND_DATA3 Pin=U1-D6
+Added Pin To Net: NetName=NAND_DATA3 Pin=U3-B2
+Added Pin To Net: NetName=NAND_DATA3 Pin=U4-32
+Added Net: Name=NAND_DATA3
+Added Pin To Net: NetName=NAND_DATA4 Pin=U1-C6
+Added Pin To Net: NetName=NAND_DATA4 Pin=U3-B3
+Added Pin To Net: NetName=NAND_DATA4 Pin=U4-41
+Added Net: Name=NAND_DATA4
+Added Pin To Net: NetName=NAND_DATA5 Pin=U1-B6
+Added Pin To Net: NetName=NAND_DATA5 Pin=U3-B4
+Added Pin To Net: NetName=NAND_DATA5 Pin=U4-42
+Added Net: Name=NAND_DATA5
+Added Pin To Net: NetName=NAND_DATA6 Pin=U1-A6
+Added Pin To Net: NetName=NAND_DATA6 Pin=U3-B5
+Added Pin To Net: NetName=NAND_DATA6 Pin=U4-43
+Added Net: Name=NAND_DATA6
+Added Pin To Net: NetName=NAND_DATA7 Pin=U1-A5
+Added Pin To Net: NetName=NAND_DATA7 Pin=U3-B6
+Added Pin To Net: NetName=NAND_DATA7 Pin=U4-44
+Added Net: Name=NAND_DATA7
+Added Pin To Net: NetName=NAND_DQS Pin=R43-2
+Added Pin To Net: NetName=NAND_DQS Pin=U4-35
+Added Net: Name=NAND_DQS
+Added Pin To Net: NetName=NAND_nREADY Pin=R45-2
+Added Pin To Net: NetName=NAND_nREADY Pin=U1-A3
+Added Net: Name=NAND_nREADY
+Added Pin To Net: NetName=NAND_nRE Pin=R41-2
+Added Pin To Net: NetName=NAND_nRE Pin=U3-M6
+Added Pin To Net: NetName=NAND_nRE Pin=U4-8
+Added Net: Name=NAND_nRE
+Added Pin To Net: NetName=NAND_nWE Pin=R39-1
+Added Pin To Net: NetName=NAND_nWE Pin=R42-2
+Added Pin To Net: NetName=NAND_nWE Pin=U3-M5
+Added Pin To Net: NetName=NAND_nWE Pin=U4-18
+Added Net: Name=NAND_nWE
+Added Pin To Net: NetName=NAND_nWP Pin=U1-D5
+Added Pin To Net: NetName=NAND_nWP Pin=U4-19
+Added Net: Name=NAND_nWP
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=U1-D8
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=U1-C8
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=U1-E6
+Added Net: Name=NetR43_1
+Added Pin To Net: NetName=NVCC_CSI Pin=C43-1
+Added Pin To Net: NetName=NVCC_CSI Pin=U1-F4
+Added Net: Name=NVCC_CSI
+Added Pin To Net: NetName=NVCC_NAND Pin=C36-2
+Added Pin To Net: NetName=NVCC_NAND Pin=C37-2
+Added Pin To Net: NetName=NVCC_NAND Pin=C38-2
+Added Pin To Net: NetName=NVCC_NAND Pin=C39-2
+Added Pin To Net: NetName=NVCC_NAND Pin=C40-1
+Added Pin To Net: NetName=NVCC_NAND Pin=U1-E7
+Added Pin To Net: NetName=NVCC_NAND Pin=U3-C6
+Added Pin To Net: NetName=NVCC_NAND Pin=U3-M4
+Added Pin To Net: NetName=NVCC_NAND Pin=U3-N4
+Added Pin To Net: NetName=NVCC_NAND Pin=U3-P3
+Added Pin To Net: NetName=NVCC_NAND Pin=U3-P5
+Added Net: Name=NVCC_NAND
+Added Member To Class: ClassName=Sheet4 Member=Component C33 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component C34 104
+Added Member To Class: ClassName=Sheet4 Member=Component C35 104
+Added Member To Class: ClassName=Sheet4 Member=Component C36 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component C37 104
+Added Member To Class: ClassName=Sheet4 Member=Component C38 104
+Added Member To Class: ClassName=Sheet4 Member=Component C39 104
+Added Member To Class: ClassName=Sheet4 Member=Component C40 104
+Added Member To Class: ClassName=Sheet4 Member=Component C41 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component C42 104
+Added Member To Class: ClassName=Sheet4 Member=Component C43 104
+Added Member To Class: ClassName=Sheet4 Member=Component C44 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component C45 104
+Added Member To Class: ClassName=Sheet4 Member=Component C46 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component C47 104
+Added Member To Class: ClassName=Sheet4 Member=Component R39 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R40 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R41 10R
+Added Member To Class: ClassName=Sheet4 Member=Component R42 10R
+Added Member To Class: ClassName=Sheet4 Member=Component R43 10R
+Added Member To Class: ClassName=Sheet4 Member=Component R44 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R45 0R
+Added Member To Class: ClassName=Sheet4 Member=Component R46 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R47 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R48 10K
+Added Member To Class: ClassName=Sheet3 Member=Component U1 MCIMX6Y2CVM05AB
+Added Member To Class: ClassName=Sheet4 Member=Component U4 MT29F4G08ABADAWP-IT
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
